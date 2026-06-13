@@ -1,45 +1,30 @@
-# Web Application Mimicking Google Sheets
+# Zeotap
 
 ## Overview
-This project is a web application that mimics the core functionalities of Google Sheets. Users can perform basic spreadsheet operations such as entering data, applying formulas, and formatting cells.
+
+Assignment/demo repository containing small data or development task files.
+
+Project type: small repository.
+
+## What This Repository Contains
+
+- `README.md`
 
 ## Tech Stack
-- Frontend: React.js
-- Backend: Node.js, Express
-- Database: MongoDB
 
-## Setup Instructions
-1. Clone the repository.
-2. Navigate to the project directory.
-3. Run `npm install` to install dependencies.
-4. Start the server: `node server/index.js`
-5. Open the frontend: `npm start`
+See source files in this repository.
 
-## Usage
-1. Open the spreadsheet interface in your browser.
-2. Enter data into cells.
-3. Use formulas like `SUM`, `AVERAGE`, `MAX`, etc., in the formula bar.
-4. Save and load spreadsheets using the backend API.
+## How To Run / Use
 
+This repository does not expose a clear runnable entry point. Review the files listed below.
 
-# Support Agent Chatbot for CDPs
+## Current Status
 
-## Overview
-This project is a chatbot that can answer "how-to" questions about four Customer Data Platforms (CDPs): Segment, mParticle, Lytics, and Zeotap. It extracts relevant information from official documentation to provide step-by-step guidance to users.
+This repository has enough structure to be understandable from the README and file layout.
 
-## Tech Stack
-- Frontend: React.js
-- Backend: Node.js, Express
-- NLP Library: spaCy (optional) or simple indexing and search
+## Notes For Reviewers
 
-## Setup Instructions
-1. Clone the repository.
-2. Navigate to the project directory.
-3. Run `npm install` to install dependencies.
-4. Start the server: `node server/index.js`
-5. Open the frontend: `npm start`
-
-## Usage
-1. Open the chatbot interface in your browser.
-2. Ask questions like "How do I set up a new source in Segment?"
-3. Get relevant answers extracted from the documentation.
+- Start with the overview and key files above.
+- If this is a notebook repository, run it in a clean Jupyter or VS Code notebook environment.
+- If this is a frontend app, run the install/build commands before judging the project.
+- Some older practice repositories are kept public for learning history, not as primary portfolio pieces.
